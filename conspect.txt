@@ -1,0 +1,12 @@
+ctrl + shift + f10 -> start program
+ctrl + f5 -> restart
+shift + 10 -> start program from Toolbar
+
+ctrl + d -> clone line
+ctrl + c -> copy line
+ctrl + x -> cut line
+
+shift + f6 -> rename (with all references) class, method, variable ..
+
+ctrl + shift + v -> generate variable (for new Person -> Person person = new Person())
+alt + enter -> (on red line on compilation error) -> offers to solve
